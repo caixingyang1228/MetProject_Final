@@ -1,6 +1,6 @@
 **All three projects explore how to search and push Met's collection in different ways.**
 
-## **First Project**
+## First Project: NYT to MET
  [Video 1](https://youtu.be/jmHYDOj8jKQ)
  
 ![enter image description here](https://github.com/caixingyang1228/MetProject_Final/blob/master/image/p1.1.jpg?raw=true)
@@ -23,7 +23,7 @@ In this project, I try to connect the present with the past, and make the news t
 
  
 
-## **Second Project**
+## Second Project: The Met Search Chrome Extension 
 [Video 2
 ](https://youtu.be/I8h0y3jjVSc)
 *Step 1 : Select any word*
@@ -47,7 +47,7 @@ This is a Chrome Extension that can select any word on the web page and use it a
 
   
 
-## **Third Project**
+## **Third Project: The Met Daily App**
 
 ![enter image description here](https://github.com/caixingyang1228/MetProject_Final/blob/master/image/p3.1.jpg?raw=true)
 
